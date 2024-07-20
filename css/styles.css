@@ -31,15 +31,6 @@ body {
   .nav-list .nav-list-item .list-item-link:focus {
     color: #404bbf;
   }
-  /*
-  list-item-link:hover {
-    color: #404bbf;
-  }
-  
-  list-item-link:focus {
-    color: #404bbf;
-  }
-    */
   
   .address-content {
     font-style: normal;
